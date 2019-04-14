@@ -298,7 +298,7 @@
 		},
 		{
 			"id": 214,
-			"text": "Chrome"
+			"text": "Microsoft Edge"
 		},
 		{
 			"id": 215,
@@ -694,11 +694,11 @@
 		},
 		{
 			"id": 452,
-			"text": "© {0,date,y} Microsoft Corporation. All rights reserved.\n\n 简体中文汉化By:Yanlongli"
+			"text": "© {0,date,y} Microsoft Corporation. All rights reserved.\n\n "
 		},
 		{
 			"id": 458,
-			"text": "Microsoft Edge 可能无法按预期工作，应为 Windows XP 和 Windows Vista 无法支持它."
+			"text": "Microsoft Edge 可能无法按预期工作，因为 Windows XP 和 Windows Vista 无法支持它."
 		},
 		{
 			"id": 459,
@@ -738,195 +738,195 @@
 		},
 		{
 			"id": 471,
-			"text": "Microsoft Edge will save and fill your password for this site next time."
+			"text": "Microsoft Edge 会将此密码保存在您的 Microsoft 帐号中，因此您不必记住它。"
 		},
 		{
 			"id": 473,
-			"text": "Microsoft Edge is trying to show passwords. Enter your Windows password to allow this."
+			"text": "Microsoft Edge正在尝试显示密码，请输入您的Windows密码以允许此操作。"
 		},
 		{
 			"id": 474,
-			"text": "Microsoft Edge wants to export your passwords. Enter your Windows password to allow this."
+			"text": "Microsoft Edge 想导出您的密码。请输入您的 Windows 密码以允许此操作。"
 		},
 		{
 			"id": 475,
-			"text": "This computer already has a more recent version of Microsoft Edge. If the software is not working, please uninstall Microsoft Edge and try again."
+			"text": "该计算机已安装了更高版本的 Microsoft Edge 浏览器。如果该软件无法正常运行，请卸载 Microsoft Edge 浏览器，然后重试。"
 		},
 		{
 			"id": 476,
-			"text": "Installation failed due to unspecified error. If Microsoft Edge is currently running, please close it and try again."
+			"text": "未知错误导致安装失败。如果 Microsoft Edge 浏览器正在运行，请将其关闭，然后重试。"
 		},
 		{
 			"id": 477,
-			"text": "Can not install the same Microsoft Edge version that is currently running. Please close Microsoft Edge and try again."
+			"text": "无法安装与当前运行版本相同的 Microsoft Edge 浏览器。请关闭 Microsoft Edge 浏览器，然后重试。"
 		},
 		{
 			"id": 478,
-			"text": "Installation failed due to unspecified error. Please download Microsoft Edge again."
+			"text": "由于未指定的错误导致安装失败。请重新下载 Microsoft Edge 浏览器。"
 		},
 		{
 			"id": 479,
-			"text": "Microsoft Edge requires Windows 7 or higher."
+			"text": "Microsoft Edge 仅支持 Windows 10 或更高版本的操作系统。"
 		},
 		{
 			"id": 480,
-			"text": "An operating system error occurred during installation. Please download Microsoft Edge again."
+			"text": "安装过程中出现操作系统错误。请重新下载 Microsoft Edge。"
 		},
 		{
 			"id": 481,
-			"text": "Another operation on Microsoft Edge is in progress. Please try again later."
+			"text": "Microsoft Edge 正在执行另一项操作，请稍后重试。"
 		},
 		{
 			"id": 482,
-			"text": "Check whether you have free disk space and permission to install software. We couldn't create a temporary directory."
+			"text": "安装程序无法创建临时目录。请检查您是否有足够的磁盘空间和权限来安装该软件。"
 		},
 		{
 			"id": 483,
-			"text": "The installer failed to uncompress archive. Please download Microsoft Edge again."
+			"text": "安装程序无法解压缩存档文件。请重新下载 Microsoft Edge。"
 		},
 		{
 			"id": 484,
-			"text": "The installer archive is corrupted or invalid. Please download Microsoft Edge again."
+			"text": "安装程序存档文件损坏或无效。请重新下载 Microsoft Edge。"
 		},
 		{
 			"id": 485,
-			"text": "You don't have permissions to install at the system level. Run the installer as an administrator."
+			"text": "您的权限不足，无法进行系统级安装。请尝试以管理员身份再次运行安装程序。"
 		},
 		{
 			"id": 486,
-			"text": "Microsoft Edge is already installed for all users on your computer."
+			"text": "已为您计算机上的所有用户安装 Microsoft Edge。"
 		},
 		{
 			"id": 487,
-			"text": "Browse the web"
+			"text": "访问互联网"
 		},
 		{
 			"id": 488,
-			"text": "Also clear your browsing data?"
+			"text": "同时删除您的浏览数据吗？"
 		},
 		{
 			"id": 489,
-			"text": "Change default browser to:"
+			"text": "将默认浏览器更改为："
 		},
 		{
 			"id": 490,
-			"text": "Uninstall"
+			"text": "卸载"
 		},
 		{
 			"id": 491,
-			"text": "$1 isn't your default browser"
+			"text": "Microsoft Edge 不是您的默认浏览器"
 		},
 		{
 			"id": 498,
-			"text": "Microsoft Edge can't show a print preview when the built-in PDF viewer is missing."
+			"text": "在缺少内置 PDF 查看器的情况下，Microsoft Edge 浏览器无法显示打印预览。"
 		},
 		{
 			"id": 499,
-			"text": "Adding to Microsoft Edge…"
+			"text": "正在添加到 Microsoft Edge 浏览器…"
 		},
 		{
 			"id": 500,
-			"text": "$1 may be dangerous, so Microsoft Edge has blocked it."
+			"text": "$1 此文件很危险，因此Microsoft Edge已将其阻止。"
 		},
 		{
 			"id": 501,
-			"text": "$1 may be dangerous, so Microsoft Edge has blocked it. You're defended by Advanced Protection."
+			"text": "$1 可能很危险，因此Microsoft Edge阻止了它。你受到了先进的保护。"
 		},
 		{
 			"id": 502,
-			"text": "This file is dangerous, so Microsoft Edge has blocked it."
+			"text": "此文件很危险，因此Microsoft Edge已将其阻止。"
 		},
 		{
 			"id": 503,
-			"text": "This file is dangerous, so Microsoft Edge has blocked it. You're defended by Advanced Protection."
+			"text": "此文件很危险，因此Microsoft Edge已将其阻止。你受到了先进的保护。"
 		},
 		{
 			"id": 504,
-			"text": "$1 is dangerous, so Microsoft Edge has blocked it."
+			"text": "$1 很危险，所以Microsoft Edge阻止了它。"
 		},
 		{
 			"id": 505,
-			"text": "$1 is dangerous, so Microsoft Edge has blocked it. You're defended by Advanced Protection."
+			"text": "$1 很危险，所以Microsoft Edge阻止了它。你受到了先进的保护。"
 		},
 		{
 			"id": 510,
-			"text": "{NUM_DOWNLOAD, plural,\n          =1 {You might lose it if you close the browser.} other {You might lose them if you close the browser.}}"
+			"text": "{NUM_DOWNLOAD, plural,\n          =1 {如果关闭浏览器，可能会丢失它。} other {如果关闭浏览器，可能会丢失它们。}}"
 		},
 		{
 			"id": 512,
-			"text": "You'll need to add a Microsoft API key to your app, website, or server."
+			"text": "您需要向应用程序、网站或服务器添加一个Microsoft API密钥。"
 		},
 		{
 			"id": 518,
-			"text": "$1 has been added to Microsoft Edge"
+			"text": "$1 已添加到 Microsoft Edge"
 		},
 		{
 			"id": 520,
-			"text": "Also clear data from Microsoft Edge ($1)"
+			"text": "一并清除 Microsoft Edge ($1) 中的数据"
 		},
 		{
 			"id": 521,
-			"text": "Move to the menu"
+			"text": "移动到菜单"
 		},
 		{
 			"id": 523,
-			"text": "If you turn this on, Microsoft Edge can't prevent the extension from saving your browsing history."
+			"text": "如果启用此选项，Microsoft Edge将无法阻止扩展保存浏览历史记录。"
 		},
 		{
 			"id": 525,
-			"text": "In Microsoft Edge"
+			"text": "在 Microsoft Edge 中"
 		},
 		{
 			"id": 526,
-			"text": "To make Microsoft Edge safer, we disabled some extensions that may have been added without your knowledge."
+			"text": "为了使 Microsoft Edge 更安全，我们禁用了一些可能在您不知情的情况下添加的扩展。"
 		},
 		{
 			"id": 527,
-			"text": "To make Microsoft Edge safer, we disabled the following extension that may have been added without your knowledge."
+			"text": "为了使Microsoft Edge更安全，我们禁用了以下可能在您不知情的情况下添加的扩展。"
 		},
 		{
 			"id": 528,
-			"text": "Settings and more (Alt+F). An update is available."
+			"text": "有可用的更新。欢迎自定义和控制 Microsoft Edge。"
 		},
 		{
 			"id": 529,
-			"text": "Customize and control Microsoft Edge. Something needs your attention - click for details."
+			"text": "自定义和控制 Microsoft Edge。出了点需要您注意的状况 - 点击即可查看详情。"
 		},
 		{
 			"id": 530,
-			"text": "&Open in Microsoft Edge"
+			"text": "在 Microsoft Edge 中打开(&O)"
 		},
 		{
 			"id": 531,
-			"text": "About &Microsoft Edge"
+			"text": "关于 Microsoft Edge(&G)"
 		},
 		{
 			"id": 532,
-			"text": "Update &Microsoft Edge"
+			"text": "更新 Microsoft Edge(&G)"
 		},
 		{
 			"id": 538,
-			"text": "Sync your browsing data across your signed-in devices using Microsoft Edge Insider Builds."
+			"text": "使用Microsoft Edge Insider版本在登录的设备之间同步浏览数据。"
 		},
 		{
 			"id": 544,
-			"text": "You're signed in to Microsoft Edge."
+			"text": "现在您已登录到 Microsoft Edge"
 		},
 		{
 			"id": 545,
-			"text": "You're signed in as $1. You can now access favorites, history, and other settings on all devices that are signed in."
+			"text": "您已使用 $1 的身份登录。现在您可在已登录的所有设备上访问您的书签、历史记录和其他设置。"
 		},
 		{
 			"id": 547,
-			"text": "You previously signed in as $1. Sign in again with that account."
+			"text": "您之前登录 Microsoft Edge 时使用的帐号为 $1，请使用同一帐号再次登录。"
 		},
 		{
 			"id": 549,
-			"text": "The previous login was for $1. To keep your favorites, history, and other settings separate from that account, create your own Microsoft Edge account now."
+			"text": "之前已有人在此计算机上以 $1 的身份登录了 Microsoft Edge。请新建一个 Microsoft Edge 用户来单独保存您的信息。"
 		},
 		{
 			"id": 550,
-			"text": "Link your Microsoft Edge data to this account?"
+			"text": "是否将您的 Microsoft Edge 数据与此帐号相关联？"
 		},
 		{
 			"id": 551,
@@ -1078,11 +1078,11 @@
 		},
 		{
 			"id": 604,
-			"text": "Chromium can recognize images and text in an image by sending page images to Google servers, allowing you to better understand page content."
+			"text": "Chromium can recognize images and text in an image by sending page images to Microsoft servers, allowing you to better understand page content."
 		},
 		{
 			"id": 605,
-			"text": "If an image is missing a description, Chromium will try to provide a description for you. Images are scanned by Google."
+			"text": "If an image is missing a description, Chromium will try to provide a description for you. Images are scanned by Microsoft."
 		},
 		{
 			"id": 606,
@@ -1290,7 +1290,7 @@
 		},
 		{
 			"id": 810,
-			"text": "Imported From Google Chrome"
+			"text": "Imported From Microsoft Edge"
 		},
 		{
 			"id": 811,
@@ -1686,7 +1686,7 @@
 		},
 		{
 			"id": 951,
-			"text": "Enable casting to cloud-based services like Google Hangouts."
+			"text": "Enable casting to cloud-based services like Microsoft Hangouts."
 		},
 		{
 			"id": 952,
@@ -1870,7 +1870,7 @@
 		},
 		{
 			"id": 1000,
-			"text": "Use of Hangouts and Cast for Education is governed by the Google Privacy Policy."
+			"text": "Use of Hangouts and Cast for Education is governed by the Microsoft Privacy Policy."
 		},
 		{
 			"id": 1001,
@@ -1886,7 +1886,7 @@
 		},
 		{
 			"id": 1005,
-			"text": "Usage and history can be reviewed by the manager ($1) on chrome.com."
+			"text": "Usage and history can be reviewed by the manager ($1) on Microsoft Edge.com."
 		},
 		{
 			"id": 1006,
@@ -2394,11 +2394,11 @@
 		},
 		{
 			"id": 2462,
-			"text": "Get image descriptions from Google"
+			"text": "Get image descriptions from Microsoft"
 		},
 		{
 			"id": 2463,
-			"text": "If an image doesn’t have a useful description, Chrome will provide one for you. Images are scanned by Google."
+			"text": "If an image doesn’t have a useful description, Microsoft Edge will provide one for you. Images are scanned by Microsoft."
 		},
 		{
 			"id": 2595,
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"id": 2615,
-			"text": "Open Chrome Web Store"
+			"text": "Open Microsoft Edge Web Store"
 		},
 		{
 			"id": 2619,
@@ -2538,7 +2538,7 @@
 		},
 		{
 			"id": 2641,
-			"text": "IDS_SETTINGS_GOOGLE_PAYMENTS - Please log a bug"
+			"text": "IDS_SETTINGS_Microsoft_PAYMENTS - Please log a bug"
 		},
 		{
 			"id": 2642,
@@ -2594,7 +2594,7 @@
 		},
 		{
 			"id": 2656,
-			"text": "To add or manage Google Pay payment methods, visit your <a href=\"$1\" target=\"_blank\">Google Account</a>"
+			"text": "To add or manage Microsoft Pay payment methods, visit your <a href=\"$1\" target=\"_blank\">Microsoft Account</a>"
 		},
 		{
 			"id": 2657,
@@ -2606,7 +2606,7 @@
 		},
 		{
 			"id": 2659,
-			"text": "Save cards in your Google Account"
+			"text": "Save cards in your Microsoft Account"
 		},
 		{
 			"id": 2660,
@@ -2710,7 +2710,7 @@
 		},
 		{
 			"id": 2691,
-			"text": "View and manage saved passwords in your <a is=\"action-link\" href=\"$1\" target=\"_blank\">Google Account</a>"
+			"text": "View and manage saved passwords in your <a is=\"action-link\" href=\"$1\" target=\"_blank\">Microsoft Account</a>"
 		},
 		{
 			"id": 2692,
@@ -2842,7 +2842,7 @@
 		},
 		{
 			"id": 2829,
-			"text": "Set up or manage printers in Google Cloud Print."
+			"text": "Set up or manage printers in Microsoft Cloud Print."
 		},
 		{
 			"id": 2830,
@@ -2858,7 +2858,7 @@
 		},
 		{
 			"id": 2884,
-			"text": "Google Cloud Print"
+			"text": "Microsoft Cloud Print"
 		},
 		{
 			"id": 2885,
@@ -2866,11 +2866,11 @@
 		},
 		{
 			"id": 2888,
-			"text": "Ask where to save each file before downloading"
+			"text": "下载前询问保存每个文件的位置"
 		},
 		{
 			"id": 2889,
-			"text": "Disconnect"
+			"text": "断开连接"
 		},
 		{
 			"id": 2890,
@@ -2878,7 +2878,7 @@
 		},
 		{
 			"id": 3167,
-			"text": "On startup"
+			"text": "启动时"
 		},
 		{
 			"id": 3168,
@@ -2886,87 +2886,87 @@
 		},
 		{
 			"id": 3169,
-			"text": "Add a new page"
+			"text": "添加一个新的页面"
 		},
 		{
 			"id": 3171,
-			"text": "Open the New Tab page"
+			"text": "打开一个新标签"
 		},
 		{
 			"id": 3172,
-			"text": "Continue where you left off"
+			"text": "上次离开的页面"
 		},
 		{
 			"id": 3173,
-			"text": "Open a specific page or pages"
+			"text": "打开一个或多个特定页面"
 		},
 		{
 			"id": 3174,
-			"text": "Set to all currently open tabs"
+			"text": "设置为所有当前打开的选项卡"
 		},
 		{
 			"id": 3175,
-			"text": "This clears your current list of pages and replaces them with all your currently open Edge tabs"
+			"text": "这将清除当前的页面列表，并将其替换为当前打开的所有边缘选项卡。"
 		},
 		{
 			"id": 3176,
-			"text": "Pages"
+			"text": "页面组"
 		},
 		{
 			"id": 3177,
-			"text": "Edit page"
+			"text": "编辑页面"
 		},
 		{
 			"id": 3178,
-			"text": "Enter a URL"
+			"text": "输入一个 URL"
 		},
 		{
 			"id": 3180,
-			"text": "$1 - $2"
+			"text": "未知 设定 $1 - $2"
 		},
 		{
 			"id": 3182,
-			"text": "Enter a shorter URL"
+			"text": "输入较短的 URL"
 		},
 		{
 			"id": 3183,
-			"text": "Languages"
+			"text": "语言"
 		},
 		{
 			"id": 3184,
-			"text": "Add languages"
+			"text": "添加语言"
 		},
 		{
 			"id": 3185,
-			"text": "Move to the top"
+			"text": "置顶"
 		},
 		{
 			"id": 3186,
-			"text": "Move up"
+			"text": "上移"
 		},
 		{
 			"id": 3187,
-			"text": "Move down"
+			"text": "下移"
 		},
 		{
 			"id": 3188,
-			"text": "Language"
+			"text": "语言"
 		},
 		{
 			"id": 3189,
-			"text": "Search languages"
+			"text": "搜索语言"
 		},
 		{
 			"id": 3190,
-			"text": "Show language options"
+			"text": "显示语言配置"
 		},
 		{
 			"id": 3191,
-			"text": "Reorder languages"
+			"text": "重新排序语言"
 		},
 		{
 			"id": 3193,
-			"text": "Offer to translate pages in this language"
+			"text": "提供翻译此语言的网页"
 		},
 		{
 			"id": 3194,
@@ -3002,7 +3002,7 @@
 		},
 		{
 			"id": 3211,
-			"text": "Uses the same spell checker that’s used in Google search. Text you type in the browser is sent to Google."
+			"text": "Uses the same spell checker that’s used in Microsoft search. Text you type in the browser is sent to Microsoft."
 		},
 		{
 			"id": 3213,
@@ -3134,7 +3134,7 @@
 		},
 		{
 			"id": 3248,
-			"text": "Help protect me from malicious sites and downloads with Windows Defender SmartScreen"
+			"text": "使用Windows Defender SmartScreen帮助保护我免受恶意网站和下载"
 		},
 		{
 			"id": 3249,
@@ -3158,7 +3158,7 @@
 		},
 		{
 			"id": 3256,
-			"text": "Help improve Chrome's features and performance"
+			"text": "Help improve Microsoft Edge's features and performance"
 		},
 		{
 			"id": 3257,
@@ -3170,7 +3170,7 @@
 		},
 		{
 			"id": 3259,
-			"text": "Sends URLs of pages you visit to Google"
+			"text": "Sends URLs of pages you visit to Microsoft"
 		},
 		{
 			"id": 3260,
@@ -4038,7 +4038,7 @@
 		},
 		{
 			"id": 3613,
-			"text": "Because this account is managed by $1, your bookmarks, history, passwords, and other settings will be cleared from this device. However, your data will remain stored in your Google Account and can be managed on <a href=\"$2\" target=\"_blank\">Google Dashboard</a>."
+			"text": "Because this account is managed by $1, your bookmarks, history, passwords, and other settings will be cleared from this device. However, your data will remain stored in your Microsoft Account and can be managed on <a href=\"$2\" target=\"_blank\">Microsoft Dashboard</a>."
 		},
 		{
 			"id": 3614,
@@ -4106,27 +4106,27 @@
 		},
 		{
 			"id": 3632,
-			"text": "Sync"
+			"text": "同步"
 		},
 		{
 			"id": 3637,
-			"text": "Other Microsoft services"
+			"text": "其他 Microsoft 服务"
 		},
 		{
 			"id": 3638,
-			"text": "Sync and Google services"
+			"text": "同步 Microsoft 服务"
 		},
 		{
 			"id": 3639,
-			"text": "Sync settings"
+			"text": "同步 设置"
 		},
 		{
 			"id": 3640,
-			"text": "Manage sync"
+			"text": "管理 同步"
 		},
 		{
 			"id": 3641,
-			"text": "Please wait…"
+			"text": "请稍等…"
 		},
 		{
 			"id": 3642,
@@ -4138,15 +4138,15 @@
 		},
 		{
 			"id": 3644,
-			"text": "Cancel sync"
+			"text": "取消同步"
 		},
 		{
 			"id": 3645,
-			"text": "Cancel sync?"
+			"text": "取消同步?"
 		},
 		{
 			"id": 3646,
-			"text": "You can turn on sync anytime in settings"
+			"text": "您可以在“设置”中随时打开“同步”"
 		},
 		{
 			"id": 3647,
@@ -4154,43 +4154,43 @@
 		},
 		{
 			"id": 3648,
-			"text": "Sync everything"
+			"text": "同步所有"
 		},
 		{
 			"id": 3649,
-			"text": "Manage your Google Account"
+			"text": "管理你的微软账户"
 		},
 		{
 			"id": 3650,
-			"text": "Apps"
+			"text": "应用"
 		},
 		{
 			"id": 3651,
-			"text": "Extensions"
+			"text": "扩展"
 		},
 		{
 			"id": 3653,
-			"text": "Addresses, phone numbers, and more"
+			"text": "地址，电话和更多"
 		},
 		{
 			"id": 3654,
-			"text": "History"
+			"text": "历史"
 		},
 		{
 			"id": 3658,
-			"text": "Open tabs"
+			"text": "打开标签"
 		},
 		{
 			"id": 3659,
-			"text": "Google Drive search suggestions"
+			"text": "Microsoft驱动器搜索建议"
 		},
 		{
 			"id": 3662,
-			"text": "Manage synced data on Google Dashboard"
+			"text": "管理Microsoft仪表板上的同步数据"
 		},
 		{
 			"id": 3663,
-			"text": "Data from Chrome sync"
+			"text": "Data from Microsoft Edge sync"
 		},
 		{
 			"id": 3664,
@@ -4198,15 +4198,15 @@
 		},
 		{
 			"id": 3666,
-			"text": "Encrypt synced passwords with your Google username and password"
+			"text": "Encrypt synced passwords with your Microsoft username and password"
 		},
 		{
 			"id": 3667,
-			"text": "Encrypt synced data with your own <a href=\"$1\" target=\"_blank\">sync passphrase</a>. This doesn't include payment methods and addresses from Google Pay."
+			"text": "Encrypt synced data with your own <a href=\"$1\" target=\"_blank\">sync passphrase</a>. This doesn't include payment methods and addresses from Microsoft Pay."
 		},
 		{
 			"id": 3668,
-			"text": "Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Google. If you forget your passphrase or want to change this setting, you'll need to <a href=\"$1\" target=\"_blank\">reset sync</a>."
+			"text": "Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Microsoft. If you forget your passphrase or want to change this setting, you'll need to <a href=\"$1\" target=\"_blank\">reset sync</a>."
 		},
 		{
 			"id": 3669,
@@ -4254,15 +4254,15 @@
 		},
 		{
 			"id": 3680,
-			"text": "Import browser data"
+			"text": "导入浏览器数据"
 		},
 		{
 			"id": 3681,
-			"text": "From:"
+			"text": "来自:"
 		},
 		{
 			"id": 3682,
-			"text": "Select profile"
+			"text": "选择资料"
 		},
 		{
 			"id": 3683,
@@ -4270,7 +4270,7 @@
 		},
 		{
 			"id": 3684,
-			"text": "Loading…"
+			"text": "加载中…"
 		},
 		{
 			"id": 3686,
@@ -4286,7 +4286,7 @@
 		},
 		{
 			"id": 3692,
-			"text": "Import"
+			"text": "导入"
 		},
 		{
 			"id": 3693,
@@ -4294,7 +4294,7 @@
 		},
 		{
 			"id": 3694,
-			"text": "No supported browser found"
+			"text": "找不到支持的浏览器"
 		},
 		{
 			"id": 3695,
@@ -4302,11 +4302,11 @@
 		},
 		{
 			"id": 3696,
-			"text": "Import from"
+			"text": "导入来自"
 		},
 		{
 			"id": 3697,
-			"text": "Profile"
+			"text": "资料"
 		},
 		{
 			"id": 3699,
@@ -4342,27 +4342,27 @@
 		},
 		{
 			"id": 3707,
-			"text": "Add profile"
+			"text": "添加资料"
 		},
 		{
 			"id": 3710,
-			"text": "Remove profile"
+			"text": "移除资料"
 		},
 		{
 			"id": 3711,
-			"text": "Your profile"
+			"text": "你的资料"
 		},
 		{
 			"id": 3712,
-			"text": "Add"
+			"text": "添加"
 		},
 		{
 			"id": 3713,
-			"text": "Update"
+			"text": "更新"
 		},
 		{
 			"id": 3715,
-			"text": "Go to my account"
+			"text": "转到我的账户"
 		},
 		{
 			"id": 3720,
@@ -4374,11 +4374,11 @@
 		},
 		{
 			"id": 3723,
-			"text": "More profiles"
+			"text": "更多资料"
 		},
 		{
 			"id": 3726,
-			"text": "Not syncing to $1"
+			"text": "不同步 $1"
 		},
 		{
 			"id": 3727,
@@ -4498,19 +4498,19 @@
 		},
 		{
 			"id": 3770,
-			"text": "Requires extension"
+			"text": "需要扩展名"
 		},
 		{
 			"id": 3908,
-			"text": "System"
+			"text": "系统"
 		},
 		{
 			"id": 3909,
-			"text": "Use hardware acceleration when available"
+			"text": "可用时使用硬件加速"
 		},
 		{
 			"id": 3910,
-			"text": "Open proxy settings"
+			"text": "打开代理"
 		},
 		{
 			"id": 3928,
@@ -4802,7 +4802,7 @@
 		},
 		{
 			"id": 4094,
-			"text": "View in Chrome Web Store"
+			"text": "View in Microsoft Edge Web Store"
 		},
 		{
 			"id": 4095,
@@ -4846,7 +4846,7 @@
 		},
 		{
 			"id": 4107,
-			"text": "Chrome Web Store"
+			"text": "Microsoft Edge Web Store"
 		},
 		{
 			"id": 4109,
@@ -5030,7 +5030,7 @@
 		},
 		{
 			"id": 4178,
-			"text": "Chrome is your default browser"
+			"text": "Microsoft Edge is your default browser"
 		},
 		{
 			"id": 4179,
@@ -5106,7 +5106,7 @@
 		},
 		{
 			"id": 4213,
-			"text": "The selected Google Cloud Print device is no longer supported. <br> Try setting up the printer in your computer's system settings."
+			"text": "The selected Microsoft Cloud Print device is no longer supported. <br> Try setting up the printer in your computer's system settings."
 		},
 		{
 			"id": 4215,
@@ -5214,7 +5214,7 @@
 		},
 		{
 			"id": 4246,
-			"text": "Save to Google Drive"
+			"text": "Save to Microsoft Drive"
 		},
 		{
 			"id": 4247,
@@ -5346,7 +5346,7 @@
 		},
 		{
 			"id": 4281,
-			"text": "Print to Google Docs and other cloud destinations. $1Sign in$2 to print to Google Cloud Print."
+			"text": "Print to Microsoft Docs and other cloud destinations. $1Sign in$2 to print to Microsoft Cloud Print."
 		},
 		{
 			"id": 4282,
@@ -5690,7 +5690,7 @@
 		},
 		{
 			"id": 4391,
-			"text": "Get started with your bookmarks, autofill data, and history from Google Chrome."
+			"text": "Get started with your bookmarks, autofill data, and history from Microsoft Edge."
 		},
 		{
 			"id": 4392,
@@ -6130,7 +6130,7 @@
 		},
 		{
 			"id": 4544,
-			"text": "New &tab"
+			"text": "新标签"
 		},
 		{
 			"id": 4545,
@@ -6138,31 +6138,31 @@
 		},
 		{
 			"id": 4546,
-			"text": "&New window"
+			"text": "&新窗口"
 		},
 		{
 			"id": 4547,
-			"text": "New &InPrivate window"
+			"text": "打开新的无痕窗口"
 		},
 		{
 			"id": 4548,
-			"text": "New &Application Guard window"
+			"text": "新建应用程序保护窗口"
 		},
 		{
 			"id": 4549,
-			"text": "&Find on page"
+			"text": "&查找"
 		},
 		{
 			"id": 4550,
-			"text": "Pin this page to Start screen"
+			"text": "打印"
 		},
 		{
 			"id": 4556,
-			"text": "Save page &as"
+			"text": "另存为"
 		},
 		{
 			"id": 4558,
-			"text": "Read alo&ud"
+			"text": "朗读"
 		},
 		{
 			"id": 4559,
@@ -6178,7 +6178,7 @@
 		},
 		{
 			"id": 4564,
-			"text": "Read aloud"
+			"text": "朗读"
 		},
 		{
 			"id": 4565,
@@ -7878,7 +7878,7 @@
 		},
 		{
 			"id": 5296,
-			"text": "Store data in your Google Drive account"
+			"text": "Store data in your Microsoft Drive account"
 		},
 		{
 			"id": 5297,
@@ -8050,11 +8050,11 @@
 		},
 		{
 			"id": 5346,
-			"text": "You can now add extensions from the Chrome Web Store to Microsoft Edge."
+			"text": "You can now add extensions from the Microsoft Edge Web Store to Microsoft Edge."
 		},
 		{
 			"id": 5347,
-			"text": "You can now add extensions from the Chrome Web Store to Microsoft Edge - Click on 'Add to Chrome'."
+			"text": "You can now add extensions from the Microsoft Edge Web Store to Microsoft Edge - Click on 'Add to Microsoft Edge'."
 		},
 		{
 			"id": 5353,
@@ -8274,11 +8274,11 @@
 		},
 		{
 			"id": 5421,
-			"text": "Another program on your computer added an app that may change the way Chrome works."
+			"text": "Another program on your computer added an app that may change the way Microsoft Edge works."
 		},
 		{
 			"id": 5422,
-			"text": "Another program on your computer added a theme that may change the way Chrome works."
+			"text": "Another program on your computer added a theme that may change the way Microsoft Edge works."
 		},
 		{
 			"id": 5423,
@@ -8930,7 +8930,7 @@
 		},
 		{
 			"id": 5645,
-			"text": "Stay in Chrome"
+			"text": "Stay in Microsoft Edge"
 		},
 		{
 			"id": 5647,
@@ -9118,7 +9118,7 @@
 		},
 		{
 			"id": 5725,
-			"text": "Google Chrome"
+			"text": "Microsoft Edge"
 		},
 		{
 			"id": 5730,
@@ -9234,7 +9234,7 @@
 		},
 		{
 			"id": 5772,
-			"text": "Attach <a href=\"#\" id=\"bluetooth-logs-info-link\">Bluetooth Logs</a> (Google internal)"
+			"text": "Attach <a href=\"#\" id=\"bluetooth-logs-info-link\">Bluetooth Logs</a> (Microsoft internal)"
 		},
 		{
 			"id": 5773,
@@ -9242,7 +9242,7 @@
 		},
 		{
 			"id": 5774,
-			"text": "To better diagnose Bluetooth issues, Googlers can include additional Bluetooth logs with their feedback reports. When this option is checked, your report will include btsnoop and HCI logs from your current session, sanitized to remove as much PII as possible. Access to these logs will be restricted to managers of the Chrome OS product group in Listnr. Logs will be purged after 90 days."
+			"text": "To better diagnose Bluetooth issues, Microsoftrs can include additional Bluetooth logs with their feedback reports. When this option is checked, your report will include btsnoop and HCI logs from your current session, sanitized to remove as much PII as possible. Access to these logs will be restricted to managers of the Microsoft Edge OS product group in Listnr. Logs will be purged after 90 days."
 		},
 		{
 			"id": 5775,
@@ -9258,7 +9258,7 @@
 		},
 		{
 			"id": 5781,
-			"text": "File will be sent to Google for debugging"
+			"text": "File will be sent to Microsoft for debugging"
 		},
 		{
 			"id": 5782,
@@ -9274,7 +9274,7 @@
 		},
 		{
 			"id": 5786,
-			"text": "Go to the <a href=\"#\" id=\"legal-help-page-url\">Legal Help page</a> to request content changes for legal reasons.  Some account and system information may be sent to Google.  We will use the information you give us to help address technical issues and to improve our services, subject to our <a href=\"#\" id=\"privacy-policy-url\">Privacy Policy</a> and <a href=\"#\" id=\"terms-of-service-url\">Terms of Service</a>."
+			"text": "Go to the <a href=\"#\" id=\"legal-help-page-url\">Legal Help page</a> to request content changes for legal reasons.  Some account and system information may be sent to Microsoft.  We will use the information you give us to help address technical issues and to improve our services, subject to our <a href=\"#\" id=\"privacy-policy-url\">Privacy Policy</a> and <a href=\"#\" id=\"terms-of-service-url\">Terms of Service</a>."
 		},
 		{
 			"id": 5787,
@@ -9470,11 +9470,11 @@
 		},
 		{
 			"id": 5873,
-			"text": "&New tab"
+			"text": "&打开新标签"
 		},
 		{
 			"id": 5875,
-			"text": "&Duplicate"
+			"text": "&复制标签"
 		},
 		{
 			"id": 5876,
@@ -9686,7 +9686,7 @@
 		},
 		{
 			"id": 5951,
-			"text": "This extension violates the Chrome Web Store policy."
+			"text": "This extension violates the Microsoft Edge Web Store policy."
 		},
 		{
 			"id": 5952,
@@ -9990,11 +9990,11 @@
 		},
 		{
 			"id": 6088,
-			"text": "IDS_SYNC_CONFIRMATION_CHROME_SYNC_TITLE"
+			"text": "IDS_SYNC_CONFIRMATION_Microsoft Edge_SYNC_TITLE"
 		},
 		{
 			"id": 6089,
-			"text": "IDS_SYNC_CONFIRMATION_CHROME_SYNC_MESSAGE"
+			"text": "IDS_SYNC_CONFIRMATION_Microsoft Edge_SYNC_MESSAGE"
 		},
 		{
 			"id": 6090,
@@ -10190,15 +10190,15 @@
 		},
 		{
 			"id": 6163,
-			"text": "&History"
+			"text": "历史记录"
 		},
 		{
 			"id": 6164,
-			"text": "download"
+			"text": "下载"
 		},
 		{
 			"id": 6165,
-			"text": "&Manage apps"
+			"text": "管理Apps"
 		},
 		{
 			"id": 6166,
@@ -10298,7 +10298,7 @@
 		},
 		{
 			"id": 6222,
-			"text": "IDS_SYNC_FULL_ENCRYPTION_BODY_GOOGLE_WITH_DATE"
+			"text": "IDS_SYNC_FULL_ENCRYPTION_BODY_Microsoft_WITH_DATE"
 		},
 		{
 			"id": 6223,
@@ -10862,7 +10862,7 @@
 		},
 		{
 			"id": 6596,
-			"text": "Printer on Google Cloud Print"
+			"text": "Printer on Microsoft Cloud Print"
 		},
 		{
 			"id": 6598,
@@ -10926,7 +10926,7 @@
 		},
 		{
 			"id": 6616,
-			"text": "Documents are <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">sent to Google</a> to prepare them for printing. View, edit and manage your printers and printer history on the <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">Google Cloud Print dashboard</a>."
+			"text": "Documents are <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">sent to Microsoft</a> to prepare them for printing. View, edit and manage your printers and printer history on the <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">Microsoft Cloud Print dashboard</a>."
 		},
 		{
 			"id": 6617,
@@ -11642,11 +11642,11 @@
 		},
 		{
 			"id": 15046,
-			"text": "This browser is made possible by the <a target=\"_blank\" href=\"$1\">Chromium</a> open source project and other <a target=\"_blank\" href=\"$2\">open source software</a>."
+			"text": "本浏览器由 <a target=\"_blank\" href=\"$1\">Chromium</a> 开源项目和其他 <a target=\"_blank\" href=\"$2\">开源软件</a>组成.简体中文汉化By： <a target=\"_blank\" href=\"https://blog.Yanlongli.com\">Yanlongli</a>"
 		},
 		{
 			"id": 15047,
-			"text": "You're viewing a secure Microsoft Edge page"
+			"text": "您正在查看安全的Microsoft边缘页"
 		},
 		{
 			"id": 15048,
@@ -11662,7 +11662,7 @@
 		},
 		{
 			"id": 15051,
-			"text": "Close Microsoft Edge"
+			"text": "关闭 Microsoft Edge"
 		},
 		{
 			"id": 15060,
@@ -11722,7 +11722,7 @@
 		},
 		{
 			"id": 15123,
-			"text": "sign in to Chrome"
+			"text": "sign in to Microsoft Edge"
 		},
 		{
 			"id": 15128,
@@ -11734,7 +11734,7 @@
 		},
 		{
 			"id": 15137,
-			"text": "Save card to Google Account?"
+			"text": "Save card to Microsoft Account?"
 		},
 		{
 			"id": 15138,
@@ -11742,19 +11742,19 @@
 		},
 		{
 			"id": 15142,
-			"text": "To pay faster next time, save your card and billing address to your Google Account."
+			"text": "To pay faster next time, save your card and billing address to your Microsoft Account."
 		},
 		{
 			"id": 15143,
-			"text": "To pay faster next time, save your card and billing address to your Google Account and to this device."
+			"text": "To pay faster next time, save your card and billing address to your Microsoft Account and to this device."
 		},
 		{
 			"id": 15144,
-			"text": "To pay faster next time, save your card, name, and billing address to your Google Account."
+			"text": "To pay faster next time, save your card, name, and billing address to your Microsoft Account."
 		},
 		{
 			"id": 15145,
-			"text": "To pay faster next time, save your card, name, and billing address to your Google Account and to this device."
+			"text": "To pay faster next time, save your card, name, and billing address to your Microsoft Account and to this device."
 		},
 		{
 			"id": 15146,
@@ -11762,11 +11762,11 @@
 		},
 		{
 			"id": 15147,
-			"text": "This name is from your Google Account"
+			"text": "This name is from your Microsoft Account"
 		},
 		{
 			"id": 15150,
-			"text": "Chrome is offering to save your cards in your Google Account because you are signed in. You can change this behavior in settings."
+			"text": "Microsoft Edge is offering to save your cards in your Microsoft Account because you are signed in. You can change this behavior in settings."
 		},
 		{
 			"id": 15171,
@@ -11786,7 +11786,7 @@
 		},
 		{
 			"id": 15180,
-			"text": "After you confirm, card details from your Google Account will be shared with this site."
+			"text": "After you confirm, card details from your Microsoft Account will be shared with this site."
 		},
 		{
 			"id": 15181,
@@ -11802,7 +11802,7 @@
 		},
 		{
 			"id": 15197,
-			"text": "From Google Pay"
+			"text": "From Microsoft Pay"
 		},
 		{
 			"id": 15198,
@@ -11846,7 +11846,7 @@
 		},
 		{
 			"id": 15211,
-			"text": "IDS_AUTOFILL_CC_GOOGLE_PAY — Please log a bug"
+			"text": "IDS_AUTOFILL_CC_Microsoft_PAY — Please log a bug"
 		},
 		{
 			"id": 15212,
@@ -12546,11 +12546,11 @@
 		},
 		{
 			"id": 15476,
-			"text": "&Manage History"
+			"text": "管理历史记录"
 		},
 		{
 			"id": 15477,
-			"text": "&Manage history"
+			"text": "管理历史记录"
 		},
 		{
 			"id": 15478,
@@ -14214,11 +14214,11 @@
 		},
 		{
 			"id": 16276,
-			"text": "Google Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">detected malware</a> on $1. Websites that are normally safe are sometimes infected with malware."
+			"text": "Microsoft Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">detected malware</a> on $1. Websites that are normally safe are sometimes infected with malware."
 		},
 		{
 			"id": 16277,
-			"text": "Google Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">detected malware</a> on $1. Websites that are normally safe are sometimes infected with malware. The malicious content comes from $2, a known malware distributor."
+			"text": "Microsoft Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">detected malware</a> on $1. Websites that are normally safe are sometimes infected with malware. The malicious content comes from $2, a known malware distributor."
 		},
 		{
 			"id": 16278,
@@ -14242,7 +14242,7 @@
 		},
 		{
 			"id": 16283,
-			"text": "Google Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">found harmful programs</a> on $1."
+			"text": "Microsoft Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">found harmful programs</a> on $1."
 		},
 		{
 			"id": 16284,
@@ -14258,7 +14258,7 @@
 		},
 		{
 			"id": 16287,
-			"text": "Google Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">detected phishing</a> on $1. Phishing sites pretend to be other websites to trick you."
+			"text": "Microsoft Safe Browsing recently <a href=\"#\" id=\"diagnostic-link\">detected phishing</a> on $1. Phishing sites pretend to be other websites to trick you."
 		},
 		{
 			"id": 16288,
@@ -14670,7 +14670,7 @@
 		},
 		{
 			"id": 16410,
-			"text": "Please start and sign in to Chrome before using this app."
+			"text": "Please start and sign in to Microsoft Edge before using this app."
 		},
 		{
 			"id": 16411,
@@ -14746,7 +14746,7 @@
 		},
 		{
 			"id": 16432,
-			"text": "Please start and sign in to Chrome so that Chrome can check whether you are allowed to access this site."
+			"text": "Please start and sign in to Microsoft Edge so that Microsoft Edge can check whether you are allowed to access this site."
 		},
 		{
 			"id": 16444,
@@ -14910,7 +14910,7 @@
 		},
 		{
 			"id": 16537,
-			"text": "Controls how your account data is handled. Google processes your account data exclusively under the direction of your account manager and solely for the purposes specified by your account manager."
+			"text": "Controls how your account data is handled. Microsoft processes your account data exclusively under the direction of your account manager and solely for the purposes specified by your account manager."
 		},
 		{
 			"id": 16547,
