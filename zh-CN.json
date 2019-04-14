@@ -2,23 +2,23 @@
 	"entry": [
 		{
 			"id": 101,
-			"text": "第一位用户"
+			"text": "第一个用户"
 		},
 		{
 			"id": 102,
-			"text": "默认个人资料"
+			"text": "默认资料"
 		},
 		{
 			"id": 122,
-			"text": "en-US,en"
+			"text": "zh-CN,zh"
 		},
 		{
 			"id": 123,
-			"text": "windows-1252"
+			"text": "GBK"
 		},
 		{
 			"id": 124,
-			"text": "Times New Roman"
+			"text": "Microsoft YaHei"
 		},
 		{
 			"id": 125,
@@ -142,7 +142,7 @@
 		},
 		{
 			"id": 169,
-			"text": "Microsoft Edge 浏览器"
+			"text": "Microsoft Edge"
 		},
 		{
 			"id": 170,
@@ -150,19 +150,19 @@
 		},
 		{
 			"id": 172,
-			"text": "查找适用于 Microsoft Edge 的扩展."
+			"text": "查找适用于 Microsoft Edge 的精彩应用、游戏、扩展程序和主题。"
 		},
 		{
 			"id": 173,
-			"text": "应用商店"
+			"text": "网上应用店"
 		},
 		{
 			"id": 177,
-			"text": "Developer build"
+			"text": "开发者内部版本"
 		},
 		{
 			"id": 179,
-			"text": "Microsoft Edge 异常崩溃. 立即重启 ?"
+			"text": "Microsoft Edge 浏览器崩溃了。是否立即重新启动？"
 		},
 		{
 			"id": 180,
@@ -190,7 +190,7 @@
 		},
 		{
 			"id": 186,
-			"text": "新标签页"
+			"text": "New Tab"
 		},
 		{
 			"id": 188,
@@ -206,107 +206,95 @@
 		},
 		{
 			"id": 191,
-			"text": "复制(&C)"
+			"text": "&Copy"
 		},
 		{
 			"id": 192,
-			"text": "全选(&A)"
+			"text": "Select &all"
 		},
 		{
 			"id": 193,
-			"text": "点击可后退，按住可查看历史记录"
+			"text": "Click to go back (Alt+Left arrow), hold to see history"
 		},
 		{
 			"id": 194,
-			"text": "后退"
-		},
-		{
-			"id": 195,
-			"text": "点按该按钮可后退，点按上下文菜单可查看历史记录"
+			"text": "Back"
 		},
 		{
 			"id": 196,
-			"text": "点击可前进，按住可查看历史记录"
+			"text": "Click to go forward (Alt+Right arrow), hold to see history"
 		},
 		{
 			"id": 197,
-			"text": "前进"
-		},
-		{
-			"id": 198,
-			"text": "点按该按钮可前进，点按上下文菜单可查看历史记录"
+			"text": "Forward"
 		},
 		{
 			"id": 199,
-			"text": "正常重新加载"
+			"text": "Normal Refresh"
 		},
 		{
 			"id": 200,
-			"text": "硬性重新加载"
+			"text": "Hard Refresh"
 		},
 		{
 			"id": 201,
-			"text": "清空缓存并硬性重新加载"
+			"text": "Empty cache and hard refresh"
 		},
 		{
 			"id": 202,
-			"text": "重新加载"
+			"text": "Refresh"
 		},
 		{
 			"id": 203,
-			"text": "打开主页"
+			"text": "Home (Alt+Home key)"
 		},
 		{
 			"id": 204,
-			"text": "首页"
+			"text": "Home"
 		},
 		{
 			"id": 205,
-			"text": "关于"
+			"text": "About"
 		},
 		{
 			"id": 206,
-			"text": "了解详情"
+			"text": "Learn more"
 		},
 		{
 			"id": 207,
-			"text": "帮助"
+			"text": "Help"
 		},
 		{
 			"id": 208,
-			"text": "始终显示图标"
+			"text": "Always show icon"
 		},
 		{
 			"id": 209,
-			"text": "优化全屏视频"
+			"text": "Optimize fullscreen videos"
 		},
 		{
 			"id": 210,
-			"text": "启用云服务"
+			"text": "Enable cloud services"
 		},
 		{
 			"id": 211,
-			"text": "报告问题"
+			"text": "Report an issue"
 		},
 		{
 			"id": 212,
-			"text": "在其他屏幕上显示"
+			"text": "Display on another screen"
 		},
 		{
 			"id": 213,
-			"text": "当前用户"
-		},
-		{
-			"id": 214,
-			"text": "Microsoft Edge"
+			"text": "Current user"
 		},
 		{
 			"id": 215,
-			"text": "更多设置 (Alt+F)"
+			"text": "Settings and more (Alt+F)"
 		},
 		{
 			"id": 216,
-			"text": "搜索或者键入互联网地址"
+			"text": "Search or enter web address"
 		},
 		{
 			"id": 217,
@@ -314,19 +302,19 @@
 		},
 		{
 			"id": 218,
-			"text": "此页面想要安装一个服务处理程序。"
+			"text": "This page wants to install a service handler."
 		},
 		{
 			"id": 219,
-			"text": "清除输入的内容"
+			"text": "Clear input"
 		},
 		{
 			"id": 220,
-			"text": "<输入搜索字词>"
+			"text": "[Type search term]"
 		},
 		{
 			"id": 221,
-			"text": "无标题"
+			"text": "Untitled"
 		},
 		{
 			"id": 222,
@@ -338,155 +326,99 @@
 		},
 		{
 			"id": 224,
-			"text": "https://microsoftedge.microsoft.com/insider-addons?hl=zh-CN"
+			"text": "https://microsoftedge.microsoft.com/insider-addons?hl=en"
 		},
 		{
 			"id": 225,
-			"text": "已移除快捷方式"
+			"text": "Shortcut removed"
 		},
 		{
 			"id": 226,
-			"text": "不要在本页上显示"
+			"text": "Don't show on this page"
 		},
 		{
 			"id": 227,
-			"text": "撤消"
+			"text": "Undo"
 		},
 		{
 			"id": 228,
-			"text": "全部恢复"
+			"text": "Restore all"
 		},
 		{
 			"id": 229,
-			"text": "主题背景创建者："
+			"text": "Theme created by"
 		},
 		{
 			"id": 231,
-			"text": "常去网站"
+			"text": "Top Sites"
 		},
 		{
 			"id": 240,
-			"text": "完成"
-		},
-		{
-			"id": 241,
-			"text": "取消"
+			"text": "Done"
 		},
 		{
 			"id": 251,
-			"text": "添加快捷方式"
+			"text": "Add shortcut"
 		},
 		{
 			"id": 253,
-			"text": "修改快捷方式"
+			"text": "Edit shortcut"
 		},
 		{
 			"id": 255,
-			"text": "名称"
+			"text": "Name"
 		},
 		{
 			"id": 256,
-			"text": "网址"
+			"text": "URL"
 		},
 		{
 			"id": 257,
-			"text": "删除"
+			"text": "Remove"
+		},
+		{
+			"id": 258,
+			"text": "Cancel"
 		},
 		{
 			"id": 259,
-			"text": "请输入一个有效网址"
+			"text": "Enter a valid URL"
 		},
 		{
 			"id": 260,
-			"text": "已修改快捷方式"
+			"text": "Shortcut edited"
 		},
 		{
 			"id": 261,
-			"text": "快捷方式已添加"
+			"text": "Shortcut added"
 		},
 		{
 			"id": 262,
-			"text": "恢复默认快捷方式"
+			"text": "Restore default shortcuts"
 		},
 		{
 			"id": 263,
-			"text": "无法创建快捷方式"
+			"text": "We can't create that shortcut"
 		},
 		{
 			"id": 264,
-			"text": "无法修改快捷方式"
+			"text": "Can’t edit shortcut"
 		},
 		{
 			"id": 265,
-			"text": "无法移除快捷方式"
-		},
-		{
-			"id": 266,
-			"text": "请检查您的麦克风。"
-		},
-		{
-			"id": 267,
-			"text": "详细信息"
-		},
-		{
-			"id": 268,
-			"text": "点击即可查看今日的涂鸦"
-		},
-		{
-			"id": 269,
-			"text": "语音搜索"
-		},
-		{
-			"id": 270,
-			"text": "不支持使用您所用的语言执行语音搜索。"
-		},
-		{
-			"id": 271,
-			"text": "正在听取…"
-		},
-		{
-			"id": 272,
-			"text": "未连接到互联网。"
-		},
-		{
-			"id": 273,
-			"text": "无法解析您所说的内容。"
-		},
-		{
-			"id": 274,
-			"text": "请检查您的麦克风和音量。"
-		},
-		{
-			"id": 275,
-			"text": "已关闭语音搜索功能。"
-		},
-		{
-			"id": 276,
-			"text": "请开始说话"
-		},
-		{
-			"id": 277,
-			"text": "重试"
-		},
-		{
-			"id": 278,
-			"text": "正在等待…"
-		},
-		{
-			"id": 279,
-			"text": "未知错误。"
+			"text": "Can’t remove shortcut"
 		},
 		{
 			"id": 282,
-			"text": "应用"
+			"text": "Office"
 		},
 		{
 			"id": 283,
-			"text": "显示应用"
+			"text": "Get to your Office apps and documents on the web"
 		},
 		{
 			"id": 285,
-			"text": "包含隐藏书签的菜单"
+			"text": "Menu containing hidden favorites"
 		},
 		{
 			"id": 289,
@@ -494,147 +426,147 @@
 		},
 		{
 			"id": 290,
-			"text": "'Segoe UI',Arial,'Microsoft Yahei',sans-serif"
+			"text": "system-ui, sans-serif"
 		},
 		{
 			"id": 292,
-			"text": "正在处理请求…"
+			"text": "Processing request…"
 		},
 		{
 			"id": 293,
-			"text": "V8 代理解析工具"
+			"text": "V8 Proxy Resolver"
 		},
 		{
 			"id": 310,
-			"text": "修改此页的书签"
+			"text": "Edit favorite for this page"
 		},
 		{
 			"id": 311,
-			"text": "标签静音"
+			"text": "Mute tab"
 		},
 		{
 			"id": 312,
-			"text": "取消标签静音"
+			"text": "Unmute tab"
 		},
 		{
 			"id": 400,
-			"text": "关于 Microsoft Edge"
+			"text": "About Microsoft Edge"
 		},
 		{
 			"id": 402,
-			"text": "获取有关 Microsoft Edge 的帮助"
+			"text": "Get help with Microsoft Edge"
 		},
 		{
 			"id": 403,
-			"text": "更新 Microsoft Edge"
+			"text": "Updating Microsoft Edge"
 		},
 		{
 			"id": 404,
-			"text": "正在更新 Microsoft Edge ($1)"
+			"text": "Updating Microsoft Edge ($1)"
 		},
 		{
 			"id": 405,
-			"text": "版本已更新！重启  Microsoft Edge 后生效。"
+			"text": "To finish updating, restart Microsoft Edge."
 		},
 		{
 			"id": 406,
-			"text": "Microsoft Edge 是最新的"
+			"text": "Microsoft Edge is up to date"
 		},
 		{
 			"id": 407,
-			"text": "Microsoft Pay (已复制到 Microsoft Edge)"
+			"text": "Microsoft Pay (copied to Microsoft Edge)"
 		},
 		{
 			"id": 408,
-			"text": "Microsoft Edge 是您的默认浏览器"
+			"text": "Microsoft Edge is your default browser"
 		},
 		{
 			"id": 409,
-			"text": "将 Microsoft Edge 设置为默认浏览器"
+			"text": "Make Microsoft Edge the default browser"
 		},
 		{
 			"id": 410,
-			"text": "Microsoft Edge 无法确定或设置默认浏览器"
+			"text": "Microsoft Edge cannot determine or set the default browser"
 		},
 		{
 			"id": 411,
-			"text": "这是 Microsoft Edge 的并行安装，您无法将此浏览器设为默认浏览器。"
+			"text": "This is a secondary installation of Microsoft Edge, and cannot be made your default browser."
 		},
 		{
 			"id": 412,
-			"text": "Microsoft Edge 可能会使用网络服务来改善您的浏览体验。不过，您可以选择停用这些服务。"
+			"text": "Microsoft Edge may use web services to improve your browsing experience. You can always choose to turn this off."
 		},
 		{
 			"id": 413,
-			"text": "为了修正拼写错误， Microsoft Edge 会将您在文本字段中输入的文字发送给 Microsoft."
+			"text": "To fix spelling errors, Microsoft Edge sends the text you type in text fields to Microsoft."
 		},
 		{
 			"id": 414,
-			"text": "要想应用您的更改，请重新启动 Microsoft Edge"
+			"text": "To see changes, restart Microsoft Edge"
 		},
 		{
 			"id": 415,
-			"text": "允许登录 Microsoft Edge"
+			"text": "Allow Microsoft Edge sign-in"
 		},
 		{
 			"id": 416,
-			"text": "关闭此功能后, 您可以登陆  Outlook 等 Microsoft 网站"
+			"text": "If you turn this off, you can sign in to Microsoft sites like Outlook without signing in to Microsoft Edge"
 		},
 		{
 			"id": 417,
-			"text": "这会从这台设备上删除 1 项内容。如果日后想要检索您的数据，届时请以 $1 的身份登录 Microsoft Edge。"
+			"text": "This will delete 1 item from this device. To retrieve your data later, sign in to Microsoft Edge as $1."
 		},
 		{
 			"id": 418,
-			"text": "这会从这台设备上删除 $1 项内容。如果日后想要检索您的数据，届时请以 $2 的身份登录 Microsoft Edge 。"
+			"text": "This will delete $1 items from this device. To retrieve your data later, sign in to Microsoft Edge as $2."
 		},
 		{
 			"id": 419,
-			"text": "这会从这台设备上删除您的浏览数据。如果日后想要检索您的数据，届时请以 $1 的身份登录 Microsoft Edge。"
+			"text": "All data on this device associated with this email address will be deleted and won’t be recovered."
 		},
 		{
 			"id": 420,
-			"text": "Microsoft 名称和图片"
+			"text": "Microsoft account name and picture"
 		},
 		{
 			"id": 421,
-			"text": "在您的所有设备上同步并个性化设置 Microsoft"
+			"text": "Sync and personalize Microsoft Edge across your devices"
 		},
 		{
 			"id": 422,
-			"text": "登录 Microsoft Edge"
+			"text": "Sign in to Microsoft Edge"
 		},
 		{
 			"id": 423,
-			"text": "为了提高安全性， Microsoft Edge 将对您的数据进行加密。"
+			"text": "For added security, Microsoft Edge will encrypt your data."
 		},
 		{
 			"id": 424,
-			"text": "退出 ?"
+			"text": "Are you sure you want to sign out?"
 		},
 		{
 			"id": 425,
-			"text": "Microsoft 将访问您的云端硬盘，以在地址栏提供建议"
+			"text": "This feature is currently unavailable"
 		},
 		{
 			"id": 426,
-			"text": "登录即可在您的所有设备上同步并个性化设置 Microsoft Edge"
+			"text": "Sign in to sync and personalize Microsoft Edge across your devices"
 		},
 		{
 			"id": 428,
-			"text": "Microsoft Edge 界面目前使用的是这种语言"
+			"text": "Microsoft Edge is displayed in this language"
 		},
 		{
 			"id": 429,
-			"text": "Microsoft Edge 以这种语言显示"
+			"text": "Display Microsoft Edge in this language"
 		},
 		{
 			"id": 430,
-			"text": "关闭 Microsoft Edge 后继续运行后台应用"
+			"text": "Continue running background apps when Microsoft Edge is closed"
 		},
 		{
 			"id": 431,
-			"text": "报告<a is=\"action-link\" target=\"_blank\">当前设置</a>，协助我们改进 Microsoft Edge"
+			"text": "Help make Microsoft Edge better by reporting the <a is=\"action-link\" target=\"_blank\">current settings</a>"
 		},
 		{
 			"id": 433,
@@ -642,51 +574,51 @@
 		},
 		{
 			"id": 434,
-			"text": "Microsoft Edge Canary （每日更新）"
+			"text": "Microsoft Edge Canary"
 		},
 		{
 			"id": 435,
-			"text": "Microsoft Edge 测试版"
+			"text": "Microsoft Edge Beta"
 		},
 		{
 			"id": 436,
-			"text": "Microsoft Edge 开发版"
+			"text": "Microsoft Edge Dev"
 		},
 		{
 			"id": 437,
-			"text": "Microsoft Edge 浏览器是一款可高速运行网页和应用的网络浏览器。它快捷、稳定且易于使用。Microsoft Edge 浏览器内置的恶意软件和网上诱骗防护功能可让您更安全地浏览网页。"
+			"text": "Microsoft Edge is a web browser that runs webpages and applications with lightning speed. It's fast, stable, and easy to use. Browse the web more safely with malware and phishing protection built into Microsoft Edge."
 		},
 		{
 			"id": 440,
-			"text": "Edge 徽标"
+			"text": "Edge logo"
 		},
 		{
 			"id": 442,
-			"text": "打开新的窗口"
+			"text": "New window"
 		},
 		{
 			"id": 443,
-			"text": "登陆 Microsoft Edge"
+			"text": "sign in to Microsoft Edge"
 		},
 		{
 			"id": 444,
-			"text": "任务管理器"
+			"text": "Browser Task Manager"
 		},
 		{
 			"id": 445,
-			"text": "通过发送有关如何使用浏览器的故障报告和数据，帮助改进Microsoft Edge"
+			"text": "Help make Microsoft Edge better by sending crash reports and data about how you use the browser"
 		},
 		{
 			"id": 447,
-			"text": "$1 - Microsoft Edge 测试版"
+			"text": "$1 - Microsoft Edge Beta"
 		},
 		{
 			"id": 448,
-			"text": "$1 - Microsoft Edge 开发板"
+			"text": "$1 - Microsoft Edge Dev"
 		},
 		{
 			"id": 449,
-			"text": "$1 - Microsoft Edge 预览版"
+			"text": "$1 - Microsoft Edge Canary"
 		},
 		{
 			"id": 451,
@@ -694,239 +626,239 @@
 		},
 		{
 			"id": 452,
-			"text": "© {0,date,y} Microsoft Corporation. All rights reserved.\n\n "
+			"text": "© {0,date,y} Microsoft Corporation. All rights reserved."
 		},
 		{
 			"id": 458,
-			"text": "Microsoft Edge 可能无法按预期工作，因为 Windows XP 和 Windows Vista 无法支持它."
+			"text": "Microsoft Edge might not work as expected because it's not supported on Windows XP or Windows Vista."
 		},
 		{
 			"id": 459,
-			"text": "Microsoft Edge 无响应，是否立即重启 ?"
+			"text": "Microsoft Edge isn't responding. Restart the browser?"
 		},
 		{
 			"id": 460,
-			"text": "请关闭所有 Microsoft Edge 窗口，然后重试."
+			"text": "Please close all Microsoft Edge windows and try again."
 		},
 		{
 			"id": 461,
-			"text": "你确定要卸载 Microsoft Edge 吗 ？"
+			"text": "Are you sure you want to uninstall Microsoft Edge?"
 		},
 		{
 			"id": 462,
-			"text": "卸载 Microsoft Edge"
+			"text": "Uninstall Microsoft Edge"
 		},
 		{
 			"id": 465,
-			"text": "让 Microsoft Edge 在后台运行"
+			"text": "Let Microsoft Edge run in the background"
 		},
 		{
 			"id": 466,
-			"text": "Microsoft Edge 无法对其数据目录\n\n        $1 执行读写操作"
+			"text": "Microsoft Edge can't read and write to its data directory:\n\n        $1"
 		},
 		{
 			"id": 468,
-			"text": "您的个人资料来自新版  Microsoft Edge 浏览器，因此无法使用。某些功能可能无法使用。请指定其他个人资料目录，或使用新版  Microsoft Edge 浏览器。"
+			"text": "Your profile can't be used. Select a different profile directory or use a newer version of Microsoft Edge."
 		},
 		{
 			"id": 469,
-			"text": "系统无法读取您的偏好设置。某些功能可能无法使用，并且对偏好设置所做的更改不会保存。"
+			"text": "We can't read your preferences or save changes to them. You may not be able to use all features."
 		},
 		{
 			"id": 470,
-			"text": "您的偏好设置文件已损坏或无效。Microsoft Edge 浏览器无法恢复您的设置。"
+			"text": "Your preferences file isn't valid, or was corrupted. We couldn't recover your settings."
 		},
 		{
 			"id": 471,
-			"text": "Microsoft Edge 会将此密码保存在您的 Microsoft 帐号中，因此您不必记住它。"
+			"text": "Microsoft Edge will save and fill your password for this site next time."
 		},
 		{
 			"id": 473,
-			"text": "Microsoft Edge正在尝试显示密码，请输入您的Windows密码以允许此操作。"
+			"text": "Microsoft Edge is trying to show passwords. Enter your Windows password to allow this."
 		},
 		{
 			"id": 474,
-			"text": "Microsoft Edge 想导出您的密码。请输入您的 Windows 密码以允许此操作。"
+			"text": "Microsoft Edge wants to export your passwords. Enter your Windows password to allow this."
 		},
 		{
 			"id": 475,
-			"text": "该计算机已安装了更高版本的 Microsoft Edge 浏览器。如果该软件无法正常运行，请卸载 Microsoft Edge 浏览器，然后重试。"
+			"text": "This computer already has a more recent version of Microsoft Edge. If the software is not working, please uninstall Microsoft Edge and try again."
 		},
 		{
 			"id": 476,
-			"text": "未知错误导致安装失败。如果 Microsoft Edge 浏览器正在运行，请将其关闭，然后重试。"
+			"text": "Installation failed due to unspecified error. If Microsoft Edge is currently running, please close it and try again."
 		},
 		{
 			"id": 477,
-			"text": "无法安装与当前运行版本相同的 Microsoft Edge 浏览器。请关闭 Microsoft Edge 浏览器，然后重试。"
+			"text": "Can not install the same Microsoft Edge version that is currently running. Please close Microsoft Edge and try again."
 		},
 		{
 			"id": 478,
-			"text": "由于未指定的错误导致安装失败。请重新下载 Microsoft Edge 浏览器。"
+			"text": "Installation failed due to unspecified error. Please download Microsoft Edge again."
 		},
 		{
 			"id": 479,
-			"text": "Microsoft Edge 仅支持 Windows 10 或更高版本的操作系统。"
+			"text": "Microsoft Edge requires Windows 7 or higher."
 		},
 		{
 			"id": 480,
-			"text": "安装过程中出现操作系统错误。请重新下载 Microsoft Edge。"
+			"text": "An operating system error occurred during installation. Please download Microsoft Edge again."
 		},
 		{
 			"id": 481,
-			"text": "Microsoft Edge 正在执行另一项操作，请稍后重试。"
+			"text": "Another operation on Microsoft Edge is in progress. Please try again later."
 		},
 		{
 			"id": 482,
-			"text": "安装程序无法创建临时目录。请检查您是否有足够的磁盘空间和权限来安装该软件。"
+			"text": "Check whether you have free disk space and permission to install software. We couldn't create a temporary directory."
 		},
 		{
 			"id": 483,
-			"text": "安装程序无法解压缩存档文件。请重新下载 Microsoft Edge。"
+			"text": "The installer failed to uncompress archive. Please download Microsoft Edge again."
 		},
 		{
 			"id": 484,
-			"text": "安装程序存档文件损坏或无效。请重新下载 Microsoft Edge。"
+			"text": "The installer archive is corrupted or invalid. Please download Microsoft Edge again."
 		},
 		{
 			"id": 485,
-			"text": "您的权限不足，无法进行系统级安装。请尝试以管理员身份再次运行安装程序。"
+			"text": "You don't have permissions to install at the system level. Run the installer as an administrator."
 		},
 		{
 			"id": 486,
-			"text": "已为您计算机上的所有用户安装 Microsoft Edge。"
+			"text": "Microsoft Edge is already installed for all users on your computer."
 		},
 		{
 			"id": 487,
-			"text": "访问互联网"
+			"text": "Browse the web"
 		},
 		{
 			"id": 488,
-			"text": "同时删除您的浏览数据吗？"
+			"text": "Also clear your browsing data?"
 		},
 		{
 			"id": 489,
-			"text": "将默认浏览器更改为："
+			"text": "Change default browser to:"
 		},
 		{
 			"id": 490,
-			"text": "卸载"
+			"text": "Uninstall"
 		},
 		{
 			"id": 491,
-			"text": "Microsoft Edge 不是您的默认浏览器"
+			"text": "$1 isn't your default browser"
 		},
 		{
 			"id": 498,
-			"text": "在缺少内置 PDF 查看器的情况下，Microsoft Edge 浏览器无法显示打印预览。"
+			"text": "Microsoft Edge can't show a print preview when the built-in PDF viewer is missing."
 		},
 		{
 			"id": 499,
-			"text": "正在添加到 Microsoft Edge 浏览器…"
+			"text": "Adding to Microsoft Edge…"
 		},
 		{
 			"id": 500,
-			"text": "$1 此文件很危险，因此Microsoft Edge已将其阻止。"
+			"text": "$1 may be dangerous, so Microsoft Edge has blocked it."
 		},
 		{
 			"id": 501,
-			"text": "$1 可能很危险，因此Microsoft Edge阻止了它。你受到了先进的保护。"
+			"text": "$1 may be dangerous, so Microsoft Edge has blocked it. You're defended by Advanced Protection."
 		},
 		{
 			"id": 502,
-			"text": "此文件很危险，因此Microsoft Edge已将其阻止。"
+			"text": "This file is dangerous, so Microsoft Edge has blocked it."
 		},
 		{
 			"id": 503,
-			"text": "此文件很危险，因此Microsoft Edge已将其阻止。你受到了先进的保护。"
+			"text": "This file is dangerous, so Microsoft Edge has blocked it. You're defended by Advanced Protection."
 		},
 		{
 			"id": 504,
-			"text": "$1 很危险，所以Microsoft Edge阻止了它。"
+			"text": "$1 is dangerous, so Microsoft Edge has blocked it."
 		},
 		{
 			"id": 505,
-			"text": "$1 很危险，所以Microsoft Edge阻止了它。你受到了先进的保护。"
+			"text": "$1 is dangerous, so Microsoft Edge has blocked it. You're defended by Advanced Protection."
 		},
 		{
 			"id": 510,
-			"text": "{NUM_DOWNLOAD, plural,\n          =1 {如果关闭浏览器，可能会丢失它。} other {如果关闭浏览器，可能会丢失它们。}}"
+			"text": "{NUM_DOWNLOAD, plural,\n          =1 {You might lose it if you close the browser.} other {You might lose them if you close the browser.}}"
 		},
 		{
 			"id": 512,
-			"text": "您需要向应用程序、网站或服务器添加一个Microsoft API密钥。"
+			"text": "You'll need to add a Microsoft API key to your app, website, or server."
 		},
 		{
 			"id": 518,
-			"text": "$1 已添加到 Microsoft Edge"
+			"text": "$1 has been added to Microsoft Edge"
 		},
 		{
 			"id": 520,
-			"text": "一并清除 Microsoft Edge ($1) 中的数据"
+			"text": "Also clear data from Microsoft Edge ($1)"
 		},
 		{
 			"id": 521,
-			"text": "移动到菜单"
+			"text": "Move to the menu"
 		},
 		{
 			"id": 523,
-			"text": "如果启用此选项，Microsoft Edge将无法阻止扩展保存浏览历史记录。"
+			"text": "If you turn this on, Microsoft Edge can't prevent the extension from saving your browsing history."
 		},
 		{
 			"id": 525,
-			"text": "在 Microsoft Edge 中"
+			"text": "In Microsoft Edge"
 		},
 		{
 			"id": 526,
-			"text": "为了使 Microsoft Edge 更安全，我们禁用了一些可能在您不知情的情况下添加的扩展。"
+			"text": "To make Microsoft Edge safer, we disabled some extensions that may have been added without your knowledge."
 		},
 		{
 			"id": 527,
-			"text": "为了使Microsoft Edge更安全，我们禁用了以下可能在您不知情的情况下添加的扩展。"
+			"text": "To make Microsoft Edge safer, we disabled the following extension that may have been added without your knowledge."
 		},
 		{
 			"id": 528,
-			"text": "有可用的更新。欢迎自定义和控制 Microsoft Edge。"
+			"text": "Settings and more (Alt+F). An update is available."
 		},
 		{
 			"id": 529,
-			"text": "自定义和控制 Microsoft Edge。出了点需要您注意的状况 - 点击即可查看详情。"
+			"text": "Customize and control Microsoft Edge. Something needs your attention - click for details."
 		},
 		{
 			"id": 530,
-			"text": "在 Microsoft Edge 中打开(&O)"
+			"text": "&Open in Microsoft Edge"
 		},
 		{
 			"id": 531,
-			"text": "关于 Microsoft Edge(&G)"
+			"text": "About &Microsoft Edge"
 		},
 		{
 			"id": 532,
-			"text": "更新 Microsoft Edge(&G)"
+			"text": "Update &Microsoft Edge"
 		},
 		{
 			"id": 538,
-			"text": "使用Microsoft Edge Insider版本在登录的设备之间同步浏览数据。"
+			"text": "Sync your browsing data across your signed-in devices using Microsoft Edge Insider Builds."
 		},
 		{
 			"id": 544,
-			"text": "现在您已登录到 Microsoft Edge"
+			"text": "You're signed in to Microsoft Edge."
 		},
 		{
 			"id": 545,
-			"text": "您已使用 $1 的身份登录。现在您可在已登录的所有设备上访问您的书签、历史记录和其他设置。"
+			"text": "You're signed in as $1. You can now access favorites, history, and other settings on all devices that are signed in."
 		},
 		{
 			"id": 547,
-			"text": "您之前登录 Microsoft Edge 时使用的帐号为 $1，请使用同一帐号再次登录。"
+			"text": "You previously signed in as $1. Sign in again with that account."
 		},
 		{
 			"id": 549,
-			"text": "之前已有人在此计算机上以 $1 的身份登录了 Microsoft Edge。请新建一个 Microsoft Edge 用户来单独保存您的信息。"
+			"text": "The previous login was for $1. To keep your favorites, history, and other settings separate from that account, create your own Microsoft Edge account now."
 		},
 		{
 			"id": 550,
-			"text": "是否将您的 Microsoft Edge 数据与此帐号相关联？"
+			"text": "Link your Microsoft Edge data to this account?"
 		},
 		{
 			"id": 551,
@@ -1078,11 +1010,11 @@
 		},
 		{
 			"id": 604,
-			"text": "Chromium can recognize images and text in an image by sending page images to Microsoft servers, allowing you to better understand page content."
+			"text": "Chromium can recognize images and text in an image by sending page images to Google servers, allowing you to better understand page content."
 		},
 		{
 			"id": 605,
-			"text": "If an image is missing a description, Chromium will try to provide a description for you. Images are scanned by Microsoft."
+			"text": "If an image is missing a description, Chromium will try to provide a description for you. Images are scanned by Google."
 		},
 		{
 			"id": 606,
@@ -1290,7 +1222,7 @@
 		},
 		{
 			"id": 810,
-			"text": "Imported From Microsoft Edge"
+			"text": "Imported From Google Chrome"
 		},
 		{
 			"id": 811,
@@ -1686,7 +1618,7 @@
 		},
 		{
 			"id": 951,
-			"text": "Enable casting to cloud-based services like Microsoft Hangouts."
+			"text": "Enable casting to cloud-based services like Google Hangouts."
 		},
 		{
 			"id": 952,
@@ -1870,7 +1802,7 @@
 		},
 		{
 			"id": 1000,
-			"text": "Use of Hangouts and Cast for Education is governed by the Microsoft Privacy Policy."
+			"text": "Use of Hangouts and Cast for Education is governed by the Google Privacy Policy."
 		},
 		{
 			"id": 1001,
@@ -2402,23 +2334,23 @@
 		},
 		{
 			"id": 2595,
-			"text": "Appearance"
+			"text": "外观"
 		},
 		{
 			"id": 2596,
-			"text": "Customize browser"
+			"text": "自定义浏览器"
 		},
 		{
 			"id": 2597,
-			"text": "Fonts"
+			"text": "字体"
 		},
 		{
 			"id": 2598,
-			"text": "Custom"
+			"text": "自定义"
 		},
 		{
 			"id": 2599,
-			"text": "Enter URL"
+			"text": "输入 URL"
 		},
 		{
 			"id": 2600,
@@ -2426,47 +2358,47 @@
 		},
 		{
 			"id": 2602,
-			"text": "Themes"
+			"text": "主题"
 		},
 		{
 			"id": 2607,
-			"text": "Reset to default"
+			"text": "重置为默认"
 		},
 		{
 			"id": 2608,
-			"text": "Show home button"
+			"text": "显示主页按钮"
 		},
 		{
 			"id": 2609,
-			"text": "Show favorites bar"
+			"text": "显示书签栏"
 		},
 		{
 			"id": 2610,
-			"text": "Always"
+			"text": "总是"
 		},
 		{
 			"id": 2611,
-			"text": "Never"
+			"text": "从不"
 		},
 		{
 			"id": 2612,
-			"text": "Only on new tabs"
+			"text": "仅在新选项卡上"
 		},
 		{
 			"id": 2613,
-			"text": "New Tab page"
+			"text": "新的标签页"
 		},
 		{
 			"id": 2614,
-			"text": "Change"
+			"text": "改变"
 		},
 		{
 			"id": 2615,
-			"text": "Open Microsoft Edge Web Store"
+			"text": "打开Microsoft Edge 商城"
 		},
 		{
 			"id": 2619,
-			"text": "Advanced"
+			"text": "高级"
 		},
 		{
 			"id": 2620,
@@ -2838,7 +2770,7 @@
 		},
 		{
 			"id": 2828,
-			"text": "Printing"
+			"text": "打印"
 		},
 		{
 			"id": 2829,
@@ -2862,7 +2794,7 @@
 		},
 		{
 			"id": 2885,
-			"text": "Downloads"
+			"text": "下载"
 		},
 		{
 			"id": 2888,
@@ -2922,7 +2854,7 @@
 		},
 		{
 			"id": 3180,
-			"text": "未知 设定 $1 - $2"
+			"text": "拼写检查"
 		},
 		{
 			"id": 3182,
@@ -3062,7 +2994,7 @@
 		},
 		{
 			"id": 3228,
-			"text": "Privacy and services"
+			"text": "隐私和服务"
 		},
 		{
 			"id": 3229,
@@ -3190,7 +3122,7 @@
 		},
 		{
 			"id": 3264,
-			"text": "Keep Wi-Fi on during sleep"
+			"text": "睡眠时保持 WI-FI 开启"
 		},
 		{
 			"id": 3265,
@@ -3202,11 +3134,11 @@
 		},
 		{
 			"id": 3267,
-			"text": "Site permissions"
+			"text": "网站权限"
 		},
 		{
 			"id": 3269,
-			"text": "Site settings"
+			"text": "站点设置"
 		},
 		{
 			"id": 3270,
@@ -3222,11 +3154,11 @@
 		},
 		{
 			"id": 3274,
-			"text": "Clear browsing data"
+			"text": "清除浏览器数据"
 		},
 		{
 			"id": 3275,
-			"text": "Clear cookies, history, passwords, and more"
+			"text": "清除cookie、历史记录、密码等"
 		},
 		{
 			"id": 3277,
@@ -3290,7 +3222,7 @@
 		},
 		{
 			"id": 3299,
-			"text": "Manage search suggestions and search engine used in the address bar"
+			"text": "管理地址栏中使用的搜索建议和搜索引擎"
 		},
 		{
 			"id": 3301,
@@ -3298,27 +3230,27 @@
 		},
 		{
 			"id": 3302,
-			"text": "Manage search engines"
+			"text": "管理搜索引擎"
 		},
 		{
 			"id": 3307,
-			"text": "Search engines"
+			"text": "搜索引擎"
 		},
 		{
 			"id": 3309,
-			"text": "Add search engine"
+			"text": "添加搜索引擎"
 		},
 		{
 			"id": 3310,
-			"text": "Edit search engine"
+			"text": "编辑搜索引擎"
 		},
 		{
 			"id": 3311,
-			"text": "Default search engines"
+			"text": "默认搜索引擎"
 		},
 		{
 			"id": 3312,
-			"text": "Other search engines"
+			"text": "其他搜索引擎"
 		},
 		{
 			"id": 3313,
@@ -3450,11 +3382,11 @@
 		},
 		{
 			"id": 3369,
-			"text": "Handlers"
+			"text": "处理程序"
 		},
 		{
 			"id": 3374,
-			"text": "Images"
+			"text": "图片"
 		},
 		{
 			"id": 3375,
@@ -3466,27 +3398,27 @@
 		},
 		{
 			"id": 3377,
-			"text": "Payment handlers"
+			"text": "付款处理程序"
 		},
 		{
 			"id": 3378,
-			"text": "Allow sites to install payment handlers"
+			"text": "允许网站安装付款处理程序"
 		},
 		{
 			"id": 3379,
-			"text": "Allow sites to install payment handlers (recommended)"
+			"text": "允许网站安装付款处理程序（推荐）"
 		},
 		{
 			"id": 3380,
-			"text": "Don't allow sites to install payment handlers"
+			"text": "不允许网站安装付款处理程序"
 		},
 		{
 			"id": 3381,
-			"text": "PDF documents"
+			"text": "PDF 文档"
 		},
 		{
 			"id": 3382,
-			"text": "Download PDF files instead of automatically opening them"
+			"text": "下载PDF文件，而不是自动打开它们"
 		},
 		{
 			"id": 3383,
@@ -3542,87 +3474,87 @@
 		},
 		{
 			"id": 3396,
-			"text": "USB devices"
+			"text": "USB 设备"
 		},
 		{
 			"id": 3397,
-			"text": "Ask when a site wants to access USB devices"
+			"text": "询问站点何时要访问USB设备"
 		},
 		{
 			"id": 3398,
-			"text": "Ask when a site wants to access USB devices (recommended)"
+			"text": "询问站点何时要访问USB设备（推荐）"
 		},
 		{
 			"id": 3399,
-			"text": "Don't allow sites to access USB devices"
+			"text": "不允许网站访问USB设备"
 		},
 		{
 			"id": 3404,
-			"text": "Remove zoom level"
+			"text": "删除缩放级别"
 		},
 		{
 			"id": 3405,
-			"text": "Zoom levels"
+			"text": "缩放级别"
 		},
 		{
 			"id": 3406,
-			"text": "Sites can save and read cookie data"
+			"text": "网站可以保存和读取cookie数据"
 		},
 		{
 			"id": 3407,
-			"text": "Ask first"
+			"text": "先询问"
 		},
 		{
 			"id": 3408,
-			"text": "Ask first (recommended)"
+			"text": "先询问 (推荐)"
 		},
 		{
 			"id": 3409,
-			"text": "Ask before accessing"
+			"text": "访问前询问"
 		},
 		{
 			"id": 3410,
-			"text": "Ask before accessing (recommended)"
+			"text": "访问前询问 (推荐)"
 		},
 		{
 			"id": 3411,
-			"text": "Will block if turned off"
+			"text": "如果关闭将阻止"
 		},
 		{
 			"id": 3412,
-			"text": "Ask before sending"
+			"text": "发送前询问"
 		},
 		{
 			"id": 3413,
-			"text": "Ask before sending (recommended)"
+			"text": "发送前询问（推荐）"
 		},
 		{
 			"id": 3414,
-			"text": "Do not show any images"
+			"text": "不显示任何图像"
 		},
 		{
 			"id": 3415,
-			"text": "Show all"
+			"text": "显示全部"
 		},
 		{
 			"id": 3416,
-			"text": "Show all (recommended)"
+			"text": "显示全部 (推荐)"
 		},
 		{
 			"id": 3417,
-			"text": "Allow sites to save and read cookie data"
+			"text": "A允许网站保存和读取cookie数据"
 		},
 		{
 			"id": 3418,
-			"text": "Allow sites to save and read cookie data (recommended)"
+			"text": "允许网站保存和读取cookie数据 (推荐)"
 		},
 		{
 			"id": 3419,
-			"text": "Block sites from running Flash"
+			"text": "阻止网站使用 Flash"
 		},
 		{
 			"id": 3420,
-			"text": "Your Flash settings will be kept until you quit Microsoft Edge."
+			"text": "在退出Microsoft Edge之前，您的Flash设置将一直保留。"
 		},
 		{
 			"id": 3421,
@@ -3702,43 +3634,43 @@
 		},
 		{
 			"id": 3440,
-			"text": "Allowed"
+			"text": "允许"
 		},
 		{
 			"id": 3441,
-			"text": "Allowed (recommended)"
+			"text": "允许 (推荐)"
 		},
 		{
 			"id": 3442,
-			"text": "Blocked"
+			"text": "关闭"
 		},
 		{
 			"id": 3443,
-			"text": "Block (recommended)"
+			"text": "关闭 (推荐)"
 		},
 		{
 			"id": 3444,
-			"text": "Allow"
+			"text": "允许"
 		},
 		{
 			"id": 3445,
-			"text": "Block"
+			"text": "禁止"
 		},
 		{
 			"id": 3448,
-			"text": "Site URL"
+			"text": "网站"
 		},
 		{
 			"id": 3451,
-			"text": "Ask"
+			"text": "询问"
 		},
 		{
 			"id": 3454,
-			"text": "Usage"
+			"text": "习惯"
 		},
 		{
 			"id": 3455,
-			"text": "No usage data"
+			"text": "无使用习惯"
 		},
 		{
 			"id": 3457,
@@ -3766,35 +3698,35 @@
 		},
 		{
 			"id": 3463,
-			"text": "Clear data"
+			"text": "清除数据"
 		},
 		{
 			"id": 3466,
-			"text": "All cookies and site data"
+			"text": "所有 cookies 和站点数据"
 		},
 		{
 			"id": 3467,
-			"text": "See all cookies and site data"
+			"text": "查看所有cookie和站点数据"
 		},
 		{
 			"id": 3469,
-			"text": "Remove all shown"
+			"text": "删除所有显示的内容"
 		},
 		{
 			"id": 3470,
-			"text": "Clear site data"
+			"text": "清除网站数据"
 		},
 		{
 			"id": 3471,
-			"text": "$1 locally stored data"
+			"text": "$1 本地存储的数据"
 		},
 		{
 			"id": 3472,
-			"text": "Reset site permissions for $1?"
+			"text": "重置的网站权限 $1?"
 		},
 		{
 			"id": 3473,
-			"text": "Clear site data?"
+			"text": "清除站点数据?"
 		},
 		{
 			"id": 3474,
@@ -3822,31 +3754,31 @@
 		},
 		{
 			"id": 3482,
-			"text": "Reset"
+			"text": "重启"
 		},
 		{
 			"id": 3484,
-			"text": "Search cookies"
+			"text": "搜索 cookies"
 		},
 		{
 			"id": 3485,
-			"text": "Block third-party cookies"
+			"text": "阻止第三方cookie"
 		},
 		{
 			"id": 3486,
-			"text": "Prevent third-party websites from saving and reading cookie data"
+			"text": "防止第三方网站保存和读取cookie数据"
 		},
 		{
 			"id": 3487,
-			"text": "Keep local data only until you quit your browser"
+			"text": "仅在退出浏览器之前保留本地数据"
 		},
 		{
 			"id": 3488,
-			"text": "Adobe Flash Player Storage settings"
+			"text": "Adobe Flash播放器存储设置"
 		},
 		{
 			"id": 3490,
-			"text": "Set as default"
+			"text": "设置为默认值"
 		},
 		{
 			"id": 3492,
@@ -3866,11 +3798,11 @@
 		},
 		{
 			"id": 3496,
-			"text": "No sites added"
+			"text": "没有站点添加"
 		},
 		{
 			"id": 3497,
-			"text": "No sites available"
+			"text": "没有可用的网站"
 		},
 		{
 			"id": 3498,
@@ -3882,11 +3814,11 @@
 		},
 		{
 			"id": 3500,
-			"text": "No sites found"
+			"text": "没有找到网站"
 		},
 		{
 			"id": 3501,
-			"text": "No USB devices found"
+			"text": "没有USB设备"
 		},
 		{
 			"id": 3503,
@@ -3894,31 +3826,31 @@
 		},
 		{
 			"id": 3504,
-			"text": "Add a site"
+			"text": "添加站点"
 		},
 		{
 			"id": 3505,
-			"text": "Edit site"
+			"text": "编辑站点"
 		},
 		{
 			"id": 3506,
-			"text": "Site"
+			"text": "站点"
 		},
 		{
 			"id": 3509,
-			"text": "Content"
+			"text": "内容"
 		},
 		{
 			"id": 3510,
-			"text": "Domain"
+			"text": "域名"
 		},
 		{
 			"id": 3511,
-			"text": "Path"
+			"text": "滤镜"
 		},
 		{
 			"id": 3512,
-			"text": "Send for"
+			"text": "发送给"
 		},
 		{
 			"id": 3513,
@@ -3938,7 +3870,7 @@
 		},
 		{
 			"id": 3517,
-			"text": "Flash data"
+			"text": "Flash 数据"
 		},
 		{
 			"id": 3518,
@@ -3966,15 +3898,15 @@
 		},
 		{
 			"id": 3524,
-			"text": "Local storage"
+			"text": "本地存储"
 		},
 		{
 			"id": 3525,
-			"text": "Media license"
+			"text": "媒体许可证"
 		},
 		{
 			"id": 3526,
-			"text": "File system"
+			"text": "文件系统"
 		},
 		{
 			"id": 3527,
@@ -3986,7 +3918,7 @@
 		},
 		{
 			"id": 3529,
-			"text": "Channel ID"
+			"text": "通道标识"
 		},
 		{
 			"id": 3531,
@@ -4006,7 +3938,7 @@
 		},
 		{
 			"id": 3538,
-			"text": "Profiles"
+			"text": "资料"
 		},
 		{
 			"id": 3539,
@@ -4098,11 +4030,11 @@
 		},
 		{
 			"id": 3630,
-			"text": "Clear favorites, history, passwords, and other browsing data from this device."
+			"text": "从此设备中清除收藏夹、历史记录、密码和其他浏览数据。."
 		},
 		{
 			"id": 3631,
-			"text": "Clear and Sign Out"
+			"text": "清除并退出"
 		},
 		{
 			"id": 3632,
@@ -4874,7 +4806,7 @@
 		},
 		{
 			"id": 4117,
-			"text": "Want to enhance your browser experience? Try adding extensions from the <a target=\"_blank\" href=\"https://microsoftedge.microsoft.com/insider-addons\">Microsoft Store.</a>"
+			"text": "想寻找浏览器扩展? 你可以从这里添加浏览器扩展 <a target=\"_blank\" href=\"https://microsoftedge.microsoft.com/insider-addons\">Microsoft Store.</a>"
 		},
 		{
 			"id": 4118,
@@ -4886,15 +4818,15 @@
 		},
 		{
 			"id": 4120,
-			"text": "Pack extension"
+			"text": "包扩展"
 		},
 		{
 			"id": 4121,
-			"text": "Pack extension warning"
+			"text": "包扩展警告"
 		},
 		{
 			"id": 4122,
-			"text": "Pack extension error"
+			"text": "包扩展错误"
 		},
 		{
 			"id": 4123,
@@ -4930,7 +4862,7 @@
 		},
 		{
 			"id": 4133,
-			"text": "Installed extensions"
+			"text": "已安装的扩展"
 		},
 		{
 			"id": 4134,
@@ -6290,23 +6222,23 @@
 		},
 		{
 			"id": 4607,
-			"text": "&Clear browsing data"
+			"text": "清除浏览器数据"
 		},
 		{
 			"id": 4608,
-			"text": "&Downloads"
+			"text": "下载"
 		},
 		{
 			"id": 4609,
-			"text": "E&xtensions"
+			"text": "扩展"
 		},
 		{
 			"id": 4610,
-			"text": "&Settings"
+			"text": "设置"
 		},
 		{
 			"id": 4614,
-			"text": "E&xit"
+			"text": "退出"
 		},
 		{
 			"id": 4618,
@@ -9694,7 +9626,7 @@
 		},
 		{
 			"id": 5953,
-			"text": "This will reset your startup page, new tab page, search engine, and pinned tabs. It will also disable all extensions and clear temporary data like cookies. Your favorites, history and saved passwords will not be cleared."
+			"text": "这将重置启动页、新选项卡页、搜索引擎和固定选项卡。它还将禁用所有扩展并清除临时数据（如cookie）。您的收藏夹、历史记录和保存的密码将不会被清除。"
 		},
 		{
 			"id": 5954,
@@ -9722,7 +9654,7 @@
 		},
 		{
 			"id": 5960,
-			"text": "Homepage"
+			"text": "首页"
 		},
 		{
 			"id": 5961,

@@ -5,6 +5,18 @@
 
 你也可以根据json文件编辑其他国家的语言或方言
 
-你可以使用「ChromePak解包打包工具.exe」 进行快速解包或打包 ，并将 pak 文件放置于版本目录的 locales 目录
+你可以下载「[zh-CN.pak](zh-CN.pak)」 ，并将 「[zh-CN.pak](zh-CN.pak)」 文件放置于版本目录的 locales 目录
+
+参考目录:
+
+    C:\Users\ {username} \AppData\Local\Microsoft\Edge SxS\Application\ {version} \Locales
+    其中{username}和 {version} 请注意
+更新日志:
+
+修复部分错误导致账户按钮文字不正确
+
+增加设置汉化
+
+创建项目
 
 更多信息请发送邮件至：ahlyl94@gmail.com 了解
